@@ -1,7 +1,6 @@
 # 🎵 Music Player
 
-A modern web-based music player built with **Next.js, React, and TypeScript**, featuring a visual theme inspired by the music<img width="1366" height="720" alt="Music and 2 more pages - Personal - Microsoft​ Edge 21-09-2026 08_50_54" src="https://github.com/user-attachments/assets/aa4e42b9-8304-4bc7-9f99-15ea1497c39f" />
-<img width="1366" height="720" alt="Music and 2 more pages - Personal - Microsoft​ Edge 21-09-2026 08_51_11" src="https://github.com/user-attachments/assets/4feb933a-bc4f-4a08-b469-d0db36229598" />
+A modern web-based music player built with **Next.js, React, and TypeScript**, featuring a visual theme inspired by the music
 -themed design I came across on a **Zepto delivery bag**.
 
 The design caught my attention and inspired me to turn that visual idea into a functional music player web application.
